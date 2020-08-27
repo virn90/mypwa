@@ -20,8 +20,8 @@
             "type": "image/png"
         }
     ],
-    "start_url": "https://www.seotechman.com/",
-    "scope": "https://www.seotechman.com/",
+    "start_url": "https://seotechman.com/?m=1",
+    "scope": "/",
     "gcm_sender_id": "725867611333",
     "display": "standalone",
     "prefer_related_applications": true,
